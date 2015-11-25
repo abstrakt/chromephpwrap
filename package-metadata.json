@@ -1,5 +1,1 @@
-{
-	"version": "0.0.1",
-	"description": "ChromePhp log wrap",
-	"url": "https://github.com/abstrakt/chromephpwrap"
-}
+{"description": "ChromePhp log selected variable", "dependencies": [], "platforms": ["*"], "url": "https://github.com/abstrakt/chromephpwrap", "version": "0.0.1", "sublime_text": "*"}
